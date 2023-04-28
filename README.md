@@ -2,7 +2,7 @@
 
 ## Figma Desgin
 
-Webapp - [Webpages]
+Webapp - [Webpages](https://github.com/mubarakmayyeri/worth-planning/blob/main/worth.pdf)
 ## Project Objective
 
 The objective of this project is to develop a predictive tool that can help Brototype students estimate their expected salary range based on their skills, experience, and demographics. The project will involve collecting data from previously graduated students, including their domains, skills, age, experience, and placed salary. This data will be analyzed to identify patterns and trends and develop a predictive model that can estimate the expected salary range for new graduates based on their skills and demographics.
