@@ -17,3 +17,15 @@ Overall, the project aims to help Brototype graduates make informed decisions ab
 
 
 These deliverables will enable Brototype graduates to make informed decisions about their careers and negotiate better salaries with recruiters.
+
+## Potential KPIs and visualizations for dashboard:
+
+1. Average salary by domain - a bar chart that shows the average salary for each domain that students are studying.
+2. Age distribution - a histogram that shows the distribution of ages among the students.
+3. Degree distribution - a pie chart or stacked bar chart that shows the proportion of students with and without a degree.
+4. District distribution - a map that shows the number of students in each district.
+5. Preferred working place - a stacked bar chart that shows the proportion of students who prefer to work in different cities or regions.
+6. Technical skills - a heat map or tree map that shows the frequency and popularity of different technical skills.
+7. Work experience distribution - a histogram that shows the distribution of work experience among the students.
+8. Top paying domains - a bar chart that shows the domains that offer the highest average salaries.
+9. Top paying technical skills - a bar chart that shows the technical skills that are most highly valued by employers.
