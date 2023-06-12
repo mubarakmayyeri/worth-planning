@@ -1,0 +1,3 @@
+- Page for evaluating the perfomance of the model
+- Create a report based on the evaluation
+- Evalution shoulbe the comparison between the salary predicted by the model and actual salary in which the students placed
